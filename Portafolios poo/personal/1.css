@@ -1,0 +1,22 @@
+.per{
+    margin-top: 0 auto;
+    padding: 50px;
+    margin-left: 5%;
+
+}
+.card-title{
+    font-weight: bold;
+    margin: 0;
+    color:  #fd4766;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 7; 
+}
+.cdg .card-text{
+    font-size: 18px;
+}
+.cdg .img-fluid{
+    margin-top: 1px;
+    margin-left:30%;
+    width: 50%;
+
+}

@@ -1,0 +1,13 @@
+.contacto{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.contac{
+    background-color: #fd4766;
+    border-radius: 15px;
+    padding: 50px;
+
+}
+.contac .btn{
+    width: 100%;
+}
